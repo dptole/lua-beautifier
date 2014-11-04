@@ -1,0 +1,15 @@
+* {
+  font-family: Courier New;
+}
+
+div.box-js-lua-code {
+  margin: 0 auto;
+  width: 90%;
+}
+
+textarea#js_lua_code {
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 300px;
+  margin: 20px auto;
+}
