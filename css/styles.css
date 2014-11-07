@@ -8,8 +8,8 @@ div.box-js-lua-code {
 }
 
 textarea#js_lua_code {
-  min-width: 100%;
-  max-width: 100%;
+  min-width: 99%;
+  max-width: 99%;
   min-height: 300px;
   margin: 20px auto;
 }
