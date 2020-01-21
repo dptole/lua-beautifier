@@ -12,7 +12,7 @@
   ;
 
   // This program reads a lua source code and formats it
-  // It's based on <http://migre.me/mEbec>
+  // It's based on <https://luacode.wordpress.com/2011/08/05/lua-code-beautifier/>
 
       // Spaces or tabs or even other strings
   var indentation = "  "
